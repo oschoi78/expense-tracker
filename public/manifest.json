@@ -1,0 +1,9 @@
+{
+  "short_name": "내 가계부",
+  "name": "내 가계부",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6366f1",
+  "background_color": "#f8fafc",
+  "icons": [{"src":"favicon.ico","sizes":"64x64","type":"image/x-icon"}]
+}
